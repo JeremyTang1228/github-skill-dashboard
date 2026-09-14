@@ -11,7 +11,9 @@ pnpm-debug.log*
 test-results/
 playwright-report/
 coverage/
-data/snapshots/
+
+# Local QA screenshots (not part of the deploy)
+qa-screenshots/
 
 # Local/private capability data. Keep your Obsidian notes and generated cards out of git.
 能力库/

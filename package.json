@@ -19,6 +19,7 @@
     "ingest": "node scripts/ingest-github.mjs",
     "generate:rankings": "node scripts/generate-rankings.mjs",
     "generate:rankings:dry": "node scripts/generate-rankings.mjs --dry-run --limit 2",
+    "translate:descriptions": "node scripts/translate-descriptions.mjs",
     "check": "npm run build"
   },
   "dependencies": {
